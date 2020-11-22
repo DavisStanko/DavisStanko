@@ -1,8 +1,7 @@
-# Hi, I'm Davis Stanko
-## Welcome to My Profile
+# Hi, I'm Davis Stanko.
+## Welcome to My Profile!
 
 ### Contact Me
-
 - Phone:  (647)706-3373
 - Email:  davisbvstanko@gmail.com
 - Insta:  @davisstanko
