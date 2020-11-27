@@ -1,6 +1,5 @@
 # Hi, I'm Davis Stanko.
-
-https://media.tenor.com/images/0c95b6e7c5d7fa56ea7b84f8b981d147/tenor.gif
+<iframe src="https://giphy.com/embed/BM19iGI2xOuiQlaOAv" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sad-crying-death-BM19iGI2xOuiQlaOAv">via GIPHY</a></p>
 
 ### About Me:
 
