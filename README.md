@@ -19,7 +19,7 @@
 
 <img height="16" width="16" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com
 
-<img height="16" width="16" src="https://simpleicons.org/icons/instagram.svg" /> @davisstanko[instagram]
+<img height="16" width="16" src="https://simpleicons.org/icons/instagram.svg" /> [davisstanko]
 
 ### To Do
 1. Start posting video projects to YouTube
@@ -30,4 +30,4 @@
 6. Creaste a web hosting server (maybe with a RasPi)
 7. Purchase a domain.
 
-[instagram]: https://instagram.com/davisstanko
+[davisstanko]: https://instagram.com/davisstanko
