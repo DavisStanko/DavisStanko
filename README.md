@@ -1,10 +1,17 @@
 # Hi, I'm Davis Stanko.
-## Welcome to My Profile!
+
+### About Me:
+<img height="32" width="32" src="https://simpleicons.org/icons/visualstudiocode.svg" />VSCode ftw
+🏫I'm in Grade 11
+<img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />I'm currently learning Python.
+<img height="32" width="32" src="https://simpleicons.org/icons/adobe.svg" />I can use Adobe Photoshop, Illustrator, Premier Pro and Audition at a basic level.
+🎿I love to ski and used to race.
+🎹I play piano and am Grade 8 in the RCM.
 
 ### Contact Me
-- Phone:  (647)706-3373
-- Email:  davisbvstanko@gmail.com
-- Insta:  @davisstanko
+📞(647)706-3373
+<img height="32" width="32" src="https://simpleicons.org/icons/gmail.svg" />davisbvstanko@gmail.com
+<img height="32" width="32" src="https://simpleicons.org/icons/instagram.svg" />@davisstanko
 
 ### To Do
 1. Start posting video projects to YouTube
