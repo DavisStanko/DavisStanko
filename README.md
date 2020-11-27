@@ -9,8 +9,8 @@
 🎹I play piano and am Grade 8 in the RCM.
 
 ### Contact Me
-📞 (647)706-3373
-<img height="16" width="16" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com
+📞 (647)706-3373 
+<img height="16" width="16" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com 
 <img height="16" width="16" src="https://simpleicons.org/icons/instagram.svg" /> @davisstanko
 
 ### To Do
