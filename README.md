@@ -1,5 +1,5 @@
 # Hi, I'm Davis Stanko.
-<iframe src="https://giphy.com/embed/BM19iGI2xOuiQlaOAv" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sad-crying-death-BM19iGI2xOuiQlaOAv">via GIPHY</a></p>
+![](Sad Late Night)
 
 ### About Me:
 
