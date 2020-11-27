@@ -30,7 +30,7 @@
 6. Creaste a web hosting server (maybe with a RasPi)
 7. Purchase a domain.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko)](https://github.com/davisstanko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&langs_count=10&layout=compact)](https://github.com/davisstanko/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davisstanko)](https://github.com/davisstanko/github-readme-stats&count_private=true&show_icons=true)
 
