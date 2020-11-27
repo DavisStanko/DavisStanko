@@ -2,13 +2,13 @@
 
 ### About Me:
 
-<img height="12" width="12" src="https://simpleicons.org/icons/visualstudiocode.svg" /> VSCode ftw
+<img height="15" width="15" src="https://simpleicons.org/icons/visualstudiocode.svg" /> VSCode ftw
 
 🏫 I'm in Grade 11
 
-<img height="12" width="12" src="https://simpleicons.org/icons/python.svg" /> I'm currently learning Python.
+<img height="15" width="15" src="https://simpleicons.org/icons/python.svg" /> I'm currently learning Python.
 
-<img height="12" width="12" src="https://simpleicons.org/icons/adobe.svg" /> I can use Adobe Photoshop, Illustrator, Premier Pro and Audition at a basic level.
+<img height="15" width="15" src="https://simpleicons.org/icons/adobe.svg" /> I can use Adobe Photoshop, Illustrator, Premier Pro and Audition at a basic level.
 
 🎿 I love to ski and used to race.
 
@@ -17,9 +17,9 @@
 ### Contact Me
 📞 (647)706-3373
 
-<img height="12" width="12" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com
+<img height="15" width="15" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com
 
-<img height="12" width="12" src="https://simpleicons.org/icons/instagram.svg" /> [davisstanko]
+<img height="15" width="15" src="https://simpleicons.org/icons/instagram.svg" /> [davisstanko]
 
 ### To Do
 1. Start posting video projects to YouTube
