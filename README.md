@@ -30,4 +30,4 @@
 6. Creaste a web hosting server (maybe with a RasPi)
 7. Purchase a domain.
 
-[website]https://www.instagram.com/davisstanko/
+[instagram]: https://instagram.com/davisstanko
