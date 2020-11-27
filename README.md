@@ -30,6 +30,6 @@
 6. Creaste a web hosting server (maybe with a RasPi)
 7. Purchase a domain.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davisstanko)](https://github.com/davisstanko/github-readme-stats)&count_private=true&show_icons=true
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davisstanko)](https://github.com/davisstanko/github-readme-stats&count_private=true&show_icons=true)
 
 [davisstanko]: https://instagram.com/davisstanko
