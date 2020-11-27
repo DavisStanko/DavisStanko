@@ -19,7 +19,7 @@
 
 <img height="16" width="16" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com
 
-<img height="16" width="16" src="https://simpleicons.org/icons/instagram.svg" /> @davisstanko[website]
+<img height="16" width="16" src="https://simpleicons.org/icons/instagram.svg" /> @davisstanko[instagram]
 
 ### To Do
 1. Start posting video projects to YouTube
