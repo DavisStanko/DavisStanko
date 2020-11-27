@@ -12,7 +12,7 @@
 
 🎿 I love to ski and used to race.
 
-🎹 I play piano and am Grade 8 in the RCM.
+🎹 I've played piano my whole life.
 
 ### Contact Me
 📞 (647)706-3373
