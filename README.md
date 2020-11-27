@@ -2,17 +2,17 @@
 
 ### About Me:
 
-<img height="16" width="16" src="https://simpleicons.org/icons/visualstudiocode.svg" />VSCode ftw
+<img height="16" width="16" src="https://simpleicons.org/icons/visualstudiocode.svg" /> VSCode ftw
 
-🏫I'm in Grade 11
+🏫 I'm in Grade 11
 
-<img height="16" width="16" src="https://simpleicons.org/icons/python.svg" />I'm currently learning Python.
+<img height="16" width="16" src="https://simpleicons.org/icons/python.svg" /> I'm currently learning Python.
 
-<img height="16" width="16" src="https://simpleicons.org/icons/adobe.svg" />I can use Adobe Photoshop, Illustrator, Premier Pro and Audition at a basic level.
+<img height="16" width="16" src="https://simpleicons.org/icons/adobe.svg" /> I can use Adobe Photoshop, Illustrator, Premier Pro and Audition at a basic level.
 
-🎿I love to ski and used to race.
+🎿 I love to ski and used to race.
 
-🎹I play piano and am Grade 8 in the RCM.
+🎹 I play piano and am Grade 8 in the RCM.
 
 ### Contact Me
 📞 (647)706-3373
