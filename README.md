@@ -1,5 +1,4 @@
 # Hi, I'm Davis Stanko.
-![](Sad Late Night)
 
 ### About Me:
 
