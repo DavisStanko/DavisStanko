@@ -1,5 +1,7 @@
 # Hi, I'm Davis Stanko.
 
+https://media.tenor.com/images/0c95b6e7c5d7fa56ea7b84f8b981d147/tenor.gif
+
 ### About Me:
 
 <img height="15" width="15" src="https://simpleicons.org/icons/visualstudiocode.svg" /> VSCode ftw
