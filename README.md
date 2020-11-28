@@ -10,9 +10,9 @@
 
  <img height="17" width="17" src="https://simpleicons.org/icons/python.svg" /> I'm currently learning Python.
 
-🎨 I can use Adobe Photoshop, Illustrator, Premier Pro and Audition at a basic level..
+🎨 I can use Adobe Photoshop, Illustrator, Premier Pro and Audition at a basic level.
 
-🎿 I love to ski and used to race........................................................................................................
+🎿 I love to ski and used to race.........................................................................................................
 
 🎹 I've played piano my whole life......................................................................................................
 
