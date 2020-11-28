@@ -15,5 +15,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=davisstanko&show_icons=true&theme=dark" alt="my github stats" width="606"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&layout=compact&theme=dark" alt="languages" height="156">                        
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dabfish2004&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/2WTET7S" data-context="false" ><a href="//imgur.com/a/2WTET7S"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ![](https://hit.yhype.halp.im/github/profile?user_id=65086944)
