@@ -17,9 +17,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=davisstanko&show_icons=true&theme=dark" alt="my github stats" width="606"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&layout=compact&theme=dark" alt="languages" height="156">
 ![Hacker](https://media1.tenor.com/images/02e672703fda926c6b1aabac0853dad4/tenor.gif?itemid=3899102)
 
-![Profile Visit Counter](https://komarev.com/ghpvc/?username=davisstanko&color=grey&style=flat-square&label=Profile+Views)
+![Jokes Card](https://readme-jokes.vercel.app/api&bgColor=23%000000)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Profile Visit Counter](https://komarev.com/ghpvc/?username=davisstanko&color=grey&style=flat-square&label=Profile+Views)
 
 ![](https://hit.yhype.halp.im/github/profile?user_id=65086944)
 
