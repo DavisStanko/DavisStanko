@@ -18,13 +18,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=davisstanko&show_icons=true&theme=dark" alt="my github stats" width="606"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&layout=compact&theme=dark" alt="languages" height="156">
 
-## Contact Me:
+![Hacker](https://media1.tenor.com/images/02e672703fda926c6b1aabac0853dad4/tenor.gif?itemid=3899102)
 
 <img height="17" width="17" src="https://simpleicons.org/icons/instagram.svg" /> [davisstanko]
-
-<img height="17" width="17" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com
-
-![Hacker](https://media1.tenor.com/images/02e672703fda926c6b1aabac0853dad4/tenor.gif?itemid=3899102)
 
 [davisstanko]: https://instagram.com/davisstanko
 </div>
