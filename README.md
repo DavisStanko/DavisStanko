@@ -8,7 +8,7 @@
 
 <img height="15" width="15" src="https://simpleicons.org/icons/python.svg" /> I'm currently learning Python.
 
-<img height="15" width="15" src="https://simpleicons.org/icons/adobe.svg" /> I can use Adobe Photoshop, Illustrator, Premier Pro and Audition at a basic level.
+🎨 I can use Adobe Photoshop, Illustrator, Premier Pro and Audition at a basic level.
 
 🎿 I love to ski and used to race.
 
