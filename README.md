@@ -15,7 +15,7 @@
 <div style="align: center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=davisstanko&show_icons=true&theme=dark" alt="my github stats" width="606"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&layout=compact&theme=dark" alt="languages" height="156">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&layout=compact&theme=dark" alt="languages" height="156">                                       
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dabfish2004&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ![](https://hit.yhype.halp.im/github/profile?user_id=65086944)
