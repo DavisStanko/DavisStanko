@@ -1,8 +1,6 @@
 # Hi, I'm Davis Stanko <img height="32" width="32" src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/Hi.gif" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dabfish2004&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=dabfish2004&redirect=true)
-
- <img height="17" width="17" src="https://simpleicons.org/icons/visualstudiocode.svg" /> **VSCode FTW**
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dabfish2004&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=dabfish2004&redirect=true) <img height="17" width="17" src="https://simpleicons.org/icons/visualstudiocode.svg" /> **VSCode FTW**
 
 🏫 **I'm in Grade 11**
 
