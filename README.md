@@ -19,6 +19,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&langs_count=10&layout=compact)](https://github.com/davisstanko/github-readme-stats)
 
-<p align="center">📞 (647)706-3373 | <img height="15" width="15" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com | <img height="15" width="15" src="https://simpleicons.org/icons/instagram.svg" /> [davisstanko] </p>
+<p align="center">
+  Contact Me:
+  📞 (647)706-3373 | <img height="15" width="15" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com | <img height="15" width="15" src="https://simpleicons.org/icons/instagram.svg" /> [davisstanko] </p>
 
 [davisstanko]: https://instagram.com/davisstanko
