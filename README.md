@@ -6,7 +6,7 @@
 
  <img height="17" width="17" src="https://simpleicons.org/icons/visualstudiocode.svg" /> VSCode ftw
 
-🏫 I'm in Grade 11																																															
+🏫 I'm in Grade 11 __________________________________
 
  <img height="17" width="17" src="https://simpleicons.org/icons/python.svg" /> I'm currently learning Python.
 
