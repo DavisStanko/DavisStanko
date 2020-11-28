@@ -13,8 +13,7 @@
 🎹 **I've played piano my whole life**
 
 <img src="https://github-readme-stats.vercel.app/api?username=davisstanko&show_icons=true&theme=dark" alt="my github stats" width="606"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&layout=compact&theme=dark" alt="languages" height="156">      
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&layout=compact&theme=dark" alt="languages" height="156">                                     
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dabfish2004&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=dabfish2004&redirect=true)
 
 
