@@ -20,7 +20,4 @@
 
 ![Hacker](https://media1.tenor.com/images/02e672703fda926c6b1aabac0853dad4/tenor.gif?itemid=3899102)
 
-<img height="17" width="17" src="https://simpleicons.org/icons/instagram.svg" /> [davisstanko]
-
-[davisstanko]: https://instagram.com/davisstanko
 </div>
