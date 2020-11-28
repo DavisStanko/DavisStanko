@@ -3,7 +3,6 @@
 # Hi, I'm Davis Stanko <img height="32" width="32" src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/Hi.gif" />
 
 ## About Me:
-![](https://komarev.com/ghpvc/?username=davisstanko)
 
  <img height="17" width="17" src="https://simpleicons.org/icons/visualstudiocode.svg" /> **VSCode FTW**
 
@@ -20,5 +19,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=davisstanko&show_icons=true&theme=dark" alt="my github stats" width="606"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&layout=compact&theme=dark" alt="languages" height="156">
 
 ![Hacker](https://media1.tenor.com/images/02e672703fda926c6b1aabac0853dad4/tenor.gif?itemid=3899102)
+
+![](https://komarev.com/ghpvc/?username=davisstanko)
 
 </div>
