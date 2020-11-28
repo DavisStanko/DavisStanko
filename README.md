@@ -1,6 +1,5 @@
 # Hi, I'm Davis Stanko <img height="32" width="32" src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/Hi.gif" />
 ![Hacker](https://media1.tenor.com/images/02e672703fda926c6b1aabac0853dad4/tenor.gif?itemid=3899102)
-
 ### About Me:
 
 <img height="15" width="15" src="https://simpleicons.org/icons/visualstudiocode.svg" /> VSCode ftw
@@ -18,7 +17,6 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=davisstanko&show_icons=true&theme=dark" alt="my github stats" width="599"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&layout=compact&theme=dark" alt="languages" height="154">
 </p>
-
 ### Contact Me:
 
   📞 (647)706-3373
