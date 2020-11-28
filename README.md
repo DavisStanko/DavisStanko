@@ -14,10 +14,10 @@
 
 🎹 I've played piano my whole life.
 
+<img src="https://github-readme-stats.vercel.app/api?username=davisstanko&show_icons=true&theme=dark" alt="my github stats" width="606"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&layout=compact&theme=dark" alt="languages" height="156">
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=davisstanko&show_icons=true&theme=dark" alt="my github stats" width="606"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&layout=compact&theme=dark" alt="languages" height="156">
- 
 ### Contact Me:
 
   📞 (647)706-3373 | <img height="17" width="17" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com | <img height="17" width="17" src="https://simpleicons.org/icons/instagram.svg" /> [davisstanko]
