@@ -20,4 +20,6 @@
 
 ![Profile Visit Counter](https://komarev.com/ghpvc/?username=davisstanko&color=grey&style=flat-square&label=Profile+Views)
 
+![](https://hit.yhype.halp.im/github/profile?user_id=65086944)
+
 </div>
