@@ -22,9 +22,9 @@
 
   📞 (647)706-3373
   
-  <img height="15" width="15" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com
+  <img height="17" width="17" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com
   
-  <img height="15" width="15" src="https://simpleicons.org/icons/instagram.svg" /> [davisstanko]
+  <img height="17" width="17" src="https://simpleicons.org/icons/instagram.svg" /> [davisstanko]
 
 ![Hacker](https://media1.tenor.com/images/02e672703fda926c6b1aabac0853dad4/tenor.gif?itemid=3899102)
 
