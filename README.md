@@ -12,8 +12,8 @@
 
 🎹 **I've played piano my whole life**
 
-<img src="https://github-readme-stats.vercel.app/api?username=davisstanko&show_icons=true&theme=dark" alt="my github stats" width="600"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&layout=compact&theme=dark" alt="languages" width="600">                      
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=dabfish2004&cover_image=true&theme=default" alt="languages" width="600">
+<img src="https://github-readme-stats.vercel.app/api?username=davisstanko&show_icons=true&theme=dark" alt="my github stats" width="555"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&layout=compact&theme=dark" alt="languages" width="555">                      
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=dabfish2004&cover_image=true&theme=default" alt="languages" width="555">
 
 ![](https://hit.yhype.halp.im/github/profile?user_id=65086944)
