@@ -19,6 +19,8 @@
 
 ![Profile Visit Counter](https://komarev.com/ghpvc/?username=davisstanko&color=grey&style=flat-square&label=Profile+Views)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ![](https://hit.yhype.halp.im/github/profile?user_id=65086944)
 
 </div>
