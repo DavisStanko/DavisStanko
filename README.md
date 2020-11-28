@@ -25,7 +25,8 @@
 7. Purchase a domain.
 
 <a href="https://github.com/davisstanko/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davisstanko&repo=github-readme-stats" />
+  <img align="center" src="
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davisstanko)](https://github.com/davisstanko/github-readme-stats&count_private=true&show_icons=true)" />
 </a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davisstanko)](https://github.com/davisstanko/github-readme-stats&count_private=true&show_icons=true)
