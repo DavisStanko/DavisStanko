@@ -2,11 +2,11 @@
 
 ### About Me:
 
-<img height="15" width="15" src="https://simpleicons.org/icons/visualstudiocode.svg" /> VSCode ftw
+<img height="17" width="17" src="https://simpleicons.org/icons/visualstudiocode.svg" /> VSCode ftw
 
 🏫 I'm in Grade 11
 
-<img height="15" width="15" src="https://simpleicons.org/icons/python.svg" /> I'm currently learning Python.
+<img height="17" width="17" src="https://simpleicons.org/icons/python.svg" /> I'm currently learning Python.
 
 🎨 I can use Adobe Photoshop, Illustrator, Premier Pro and Audition at a basic level.
 
