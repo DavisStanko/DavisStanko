@@ -20,6 +20,6 @@
 
 ![Hacker](https://media1.tenor.com/images/02e672703fda926c6b1aabac0853dad4/tenor.gif?itemid=3899102)
 
-![](https://komarev.com/ghpvc/?username=davisstanko)
+![Profile Visit Counter](https://komarev.com/ghpvc/?username=davisstanko)
 
 </div>
