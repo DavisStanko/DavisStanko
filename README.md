@@ -10,11 +10,11 @@
 
  <img height="17" width="17" src="https://simpleicons.org/icons/python.svg" /> I'm currently learning Python.
 
-🎨 I can use Adobe Photoshop, Illustrator, Premier Pro and Audition at a basic level.___
+🎨 I can use Adobe Photoshop, Illustrator, Premier Pro and Audition at a basic level....
 
-🎿 I love to ski and used to race.______________________________________________________
+🎿 I love to ski and used to race.......................................................
 
-🎹 I've played piano my whole life._____________________________________________________
+🎹 I've played piano my whole life......................................................
 
 <img src="https://github-readme-stats.vercel.app/api?username=davisstanko&show_icons=true&theme=dark" alt="my github stats" width="606"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&layout=compact&theme=dark" alt="languages" height="156">
 
