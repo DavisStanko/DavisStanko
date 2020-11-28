@@ -1,4 +1,4 @@
-# Hi, I'm Davis Stanko ![Hi](https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/Hi.gif)
+# Hi, I'm Davis Stanko <img height="15" width="15" src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/Hi.gif" />
 ![Hacker](https://media1.tenor.com/images/02e672703fda926c6b1aabac0853dad4/tenor.gif?itemid=3899102)
 
 ### About Me:
