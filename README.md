@@ -1,5 +1,5 @@
 # Hi, I'm Davis Stanko.
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Hacker](https://media1.tenor.com/images/02e672703fda926c6b1aabac0853dad4/tenor.gif?itemid=3899102)
 
 ### About Me:
 
