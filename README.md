@@ -4,7 +4,7 @@
 
 ## About Me:
 
- <img height="17" width="17" src="https://simpleicons.org/icons/visualstudiocode.svg" /> VSCode FTW
+ <img height="17" width="17" src="https://simpleicons.org/icons/visualstudiocode.svg" /> **VSCode FTW**
 
 🏫 I'm in Grade 11.............................................................................................................................................................
 
