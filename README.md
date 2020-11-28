@@ -15,20 +15,6 @@
 
 🎹 I've played piano my whole life.
 
-### To Do
-1. Start posting video projects to YouTube
-2. Create a Graphic design portfolio (Photoshop, Illustrator, video/audio editing, etc.)
-3. Learn Python
-4. Learn 3D modeling with blender
-5. Code a website without a builder
-6. Creaste a web hosting server (maybe with a RasPi)
-7. Purchase a domain.
-
-<a href="https://github.com/davisstanko/github-readme-stats">
-  <img align="center" src="
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davisstanko)](https://github.com/davisstanko/github-readme-stats&count_private=true&show_icons=true)" />
-</a>
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davisstanko)](https://github.com/davisstanko/github-readme-stats&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&langs_count=10&layout=compact)](https://github.com/davisstanko/github-readme-stats)
