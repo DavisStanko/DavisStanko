@@ -15,6 +15,7 @@
 🎹 I've played piano my whole life.
 
 ![Hacker](https://media1.tenor.com/images/02e672703fda926c6b1aabac0853dad4/tenor.gif?itemid=3899102)
+
 (Acual video of me coding🤣)
 
 <p align="left">
