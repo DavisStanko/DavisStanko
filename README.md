@@ -24,11 +24,13 @@
 6. Creaste a web hosting server (maybe with a RasPi)
 7. Purchase a domain.
 
+<a href="https://github.com/davisstanko/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davisstanko&repo=github-readme-stats" />
+</a>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davisstanko)](https://github.com/davisstanko/github-readme-stats&count_private=true&show_icons=true)
 
-<p align="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&langs_count=10&layout=compact)](https://github.com/davisstanko/github-readme-stats)
-</p>
 
 <p align="center">📞 (647)706-3373 | <img height="15" width="15" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com | <img height="15" width="15" src="https://simpleicons.org/icons/instagram.svg" /> [davisstanko] </p>
 
