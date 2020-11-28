@@ -3,6 +3,7 @@
 # Hi, I'm Davis Stanko <img height="32" width="32" src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/Hi.gif" />
 
 ## About Me:
+![](https://komarev.com/ghpvc/?username=davisstanko)
 
  <img height="17" width="17" src="https://simpleicons.org/icons/visualstudiocode.svg" /> **VSCode FTW**
 
