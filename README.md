@@ -15,8 +15,6 @@
 
 🎹 I've played piano my whole life.
 
-<p align="center">📞 (647)706-3373 | <img height="15" width="15" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com | <img height="15" width="15" src="https://simpleicons.org/icons/instagram.svg" /> [davisstanko] </p>
-
 ### To Do
 1. Start posting video projects to YouTube
 2. Create a Graphic design portfolio (Photoshop, Illustrator, video/audio editing, etc.)
@@ -25,6 +23,8 @@
 5. Code a website without a builder
 6. Creaste a web hosting server (maybe with a RasPi)
 7. Purchase a domain.
+
+<p align="center">📞 (647)706-3373 | <img height="15" width="15" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com | <img height="15" width="15" src="https://simpleicons.org/icons/instagram.svg" /> [davisstanko] </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisstanko&langs_count=10&layout=compact)](https://github.com/davisstanko/github-readme-stats)
 
