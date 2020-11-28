@@ -16,7 +16,7 @@
 🎹 I've played piano my whole life.
 
 ### Contact Me
-📞 (647)706-3373 | <img height="15" width="15" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com | <img height="15" width="15" src="https://simpleicons.org/icons/instagram.svg" /> [davisstanko]
+<p align="center"> 📞 (647)706-3373 | <img height="15" width="15" src="https://simpleicons.org/icons/gmail.svg" /> davisbvstanko@gmail.com | <img height="15" width="15" src="https://simpleicons.org/icons/instagram.svg" /> [davisstanko] </p>
 
 ### To Do
 1. Start posting video projects to YouTube
