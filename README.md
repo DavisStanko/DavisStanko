@@ -12,11 +12,4 @@
 
 🎹 **I've played piano my whole life**
 
-# setup
-pipenv install --dev
-# testing
-pipenv run python chess_com_box.py test <gist-id> <github-token> <user>
-# example
-# pipenv run python chess_com_box.py test ce5221fc5f3739d2c81ce7db99f17519 cf9181618bf1618253d17161843f71a2bb161850 sciencepal
-
 <img src="https://github-readme-stats.vercel.app/api?username=davisstanko&show_icons=true&theme=dark" alt="my github stats" width="550"/>
