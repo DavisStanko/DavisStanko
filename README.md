@@ -13,5 +13,3 @@
 🎹 **I've played piano my whole life**
 
 ♟ **I have a 1200 bullet rating on chess.com**
-
-<img src="https://github-readme-stats.vercel.app/api?username=davisstanko&show_icons=true&theme=dark" alt="my github stats" width="550"/>
