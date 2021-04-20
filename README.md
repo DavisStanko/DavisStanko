@@ -12,4 +12,4 @@
 
 🎹 **I've played piano my whole life**
 
-♟ **I have a 1200 bullet rating on chess.com**
+♟ **I have a 1300 bullet rating on chess.com**
